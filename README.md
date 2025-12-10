@@ -88,7 +88,7 @@ My background as a **music producer & former sound engineer at Fabric (London)**
 ### 💡 Coding Activity Tracker
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashsutton&theme=tokyo-night" />
+  [![Spotify](https://novatyler-spotify-readme.vercel.app/api/now-playing?id=ytbler3789kx4l4g66ngniv34)](https://open.spotify.com/user/ytbler3789kx4l4g66ngniv34?si=393b7d32901c4175&nd=1&dlsi=14158d1599cf485e)
 </p>
 
 ---
