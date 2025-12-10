@@ -61,8 +61,12 @@ My background as a **music producer & former sound engineer at Fabric (London)**
 # 🚀 Featured Projects  
 
 <p align="center">
-  <!-- Dynamic repo list showing your top repos -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sashsutton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/sashsutton/vector-search-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashsutton&repo=vector-search-engine&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/sashsutton/ultra-marathon-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashsutton&repo=ultra-marathon-analysis&theme=tokyonight" />
+  </a>
 </p>
 
 ---
@@ -70,7 +74,6 @@ My background as a **music producer & former sound engineer at Fabric (London)**
 # 📊 GitHub Contributions
 
 <p align="center">
-  <!-- GitHub Activity / Green Squares -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashsutton&theme=tokyo-night" />
 </p>
 
@@ -113,10 +116,19 @@ My background as a **music producer & former sound engineer at Fabric (London)**
 - Cloud deployment (learning)  
 
 ---
+<h3 align="center">🎧 Recently Played</h3>
+
+<p align="center">
+  <a href="https://www.last.fm/user/YOUR_LASTFM_USERNAME">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=vilason&count=5&theme=tokyo-night" width="400" />
+  </a>
+</p>
+
+---
 
 ## 📫 Connect With Me
 - **GitHub:** [Sasha Sutton](https://github.com/sashsutton)  
-- **LeetCode:** [Sasha on LeetCode](https://leetcode.com/sashasutton/)  
+- **LeetCode:** [Sasha on LeetCode](https://leetcode.com/u/sashasuttons3/)  
 - **LinkedIn:** [Sasha Sutton](https://www.linkedin.com/in/sashasutton4)  
 - **Email:** sashsuttons3@icloud.com  
 
