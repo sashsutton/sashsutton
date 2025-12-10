@@ -119,7 +119,7 @@ My background as a **music producer & former sound engineer at Fabric (London)**
 <h3 align="center">🎧 Recently Played</h3>
 
 <p align="center">
-  <a href="https://www.last.fm/user/YOUR_LASTFM_USERNAME">
+  <a href="https://www.last.fm/user/vilason">
     <img src="https://lastfm-recently-played.vercel.app/api?user=vilason&count=5&theme=tokyo-night" width="400" />
   </a>
 </p>
