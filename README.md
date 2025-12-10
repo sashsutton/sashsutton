@@ -1,5 +1,4 @@
 
-
 <h1 align="center">👋 Hi, I'm Sasha — AI & Backend Engineering Enthusiast</h1>
 <p align="center">
   <b>Math & CS Student • Aspiring AI Engineer • Backend Developer • Creative Tech Explorer</b>
@@ -59,36 +58,20 @@ My background as a **music producer & former sound engineer at Fabric (London)**
 
 ---
 
-# 🚀 Featured Projects (Pinned)
+# 🚀 Featured Projects  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashsutton&repo=vector-search-engine&theme=tokyonight" />
+  <!-- Dynamic repo list showing your top repos -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sashsutton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 ---
 
-# 🎧 Spotify – Now Playing  
-*(Linked to your real Spotify account)*
+# 📊 GitHub Contributions
 
 <p align="center">
-  <img 
-    src="https://spotify-github-profile.vercel.app/api/view?uid=ytbler3789kx4l4g66ngniv34&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" 
-  />
-</p>
-
----
-
-# 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sashsutton&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashsutton&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-### 💡 Coding Activity Tracker
-
-<p align="center">
-  [![Spotify](https://novatyler-spotify-readme.vercel.app/api/now-playing?id=ytbler3789kx4l4g66ngniv34)](https://open.spotify.com/user/ytbler3789kx4l4g66ngniv34?si=393b7d32901c4175&nd=1&dlsi=14158d1599cf485e)
+  <!-- GitHub Activity / Green Squares -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashsutton&theme=tokyo-night" />
 </p>
 
 ---
@@ -132,8 +115,9 @@ My background as a **music producer & former sound engineer at Fabric (London)**
 ---
 
 ## 📫 Connect With Me
-- **GitHub:** https://github.com/sashsutton  
-- **LinkedIn:** https://www.linkedin.com/in/sashasutton4  
+- **GitHub:** [Sasha Sutton](https://github.com/sashsutton)  
+- **LeetCode:** [Sasha on LeetCode](https://leetcode.com/sashasutton/)  
+- **LinkedIn:** [Sasha Sutton](https://www.linkedin.com/in/sashasutton4)  
 - **Email:** sashsuttons3@icloud.com  
 
 ---
