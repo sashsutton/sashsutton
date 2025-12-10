@@ -57,17 +57,24 @@ My background as a **music producer & former sound engineer at Fabric (London)**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects  
+### 🔍 **[Vector Search Engine (RAG)](https://github.com/sashsutton/vector-search-engine)**
+> **Python • FastAPI • NumPy • Docker**
+>
+> A high-performance semantic search engine built from scratch. It uses **Cosine Similarity** and **Linear Algebra** to manage 384-dimensional vector embeddings in real-time, enabling context-aware search instead of just keyword matching.
+>
+> [![View Code](https://img.shields.io/badge/View_Code-GitHub-black?style=flat-square&logo=github)](https://github.com/sashsutton/vector-search-engine)
+> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Online-success?style=flat-square)](https://vector-search-engine-frontend.vercel.app/)
 
-<p align="center">
-  <a href="https://github.com/sashsutton/vector-search-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashsutton&repo=vector-search-engine&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/sashsutton/ultra-marathon-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashsutton&repo=ultra-marathon-analysis&theme=tokyonight" />
-  </a>
-</p>
+<br>
+
+### 🏃 **[Ultra Marathon Analysis](https://github.com/sashsutton/ultra-marathon-analysis)**
+> **Python • Pandas • Data Viz**
+>
+> *(Add a short description of your marathon project here...)*
+>
+> [![View Code](https://img.shields.io/badge/View_Code-GitHub-black?style=flat-square&logo=github)](https://github.com/sashsutton/ultra-marathon-analysis)
 
 ---
 
