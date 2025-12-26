@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I'm Sasha — AI & Backend Engineering</h1>
 <p align="center">
-  <b>Math & CS Student • Aspiring AI Engineer • Backend Developer • Creative Tech Explorer</b>
+  <b>Math & CS Student • Aspiring AI Engineer • Full-stack developper • Creative Tech Explorer</b>
 </p>
 
 ---
