@@ -69,7 +69,7 @@ My background as a **music producer & former sound engineer at Fabric (London)**
 
 <br>
 
-### 🏃 **[Neural Vision 3D](https://github.com/sashsutton/neural-network-numbers?tab=readme-ov-file)**
+### 👁️ **[Neural Vision 3D](https://github.com/sashsutton/neural-network-numbers?tab=readme-ov-file)**
 > **Python • Numpy • React**
 >
 > An interactive 3D visualization of a Neural Network built from scratch, capable of recognising hand-drawn digits using the MNIST dataset.
