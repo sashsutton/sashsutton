@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me  [Portfolio website](https://my-portfolio-three-omega-61.vercel.app/)
+## 🧠 About Me  [My website](https://my-portfolio-three-omega-61.vercel.app/)
 I'm a Mathematics & Computer Science student focusing on **AI engineering**, especially:
 
 - Machine learning & deep learning  
