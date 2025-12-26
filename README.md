@@ -69,12 +69,12 @@ My background as a **music producer & former sound engineer at Fabric (London)**
 
 <br>
 
-### 🏃 **[Ultra Marathon Analysis](https://github.com/sashsutton/ultra-marathon-analysis)**
-> **Python • Pandas • Data Viz**
+### 🏃 **[Neural Vision 3D](https://github.com/sashsutton/neural-network-numbers?tab=readme-ov-file)**
+> **Python • Numpy • React**
 >
 > **
 >
-> [![View Code](https://img.shields.io/badge/View_Code-GitHub-black?style=flat-square&logo=github)](https://github.com/sashsutton/ultra-marathon-analysis)
+> [![View Code](https://img.shields.io/badge/View_Code-GitHub-black?style=flat-square&logo=github)](https://github.com/sashsutton/neural-network-numbers?tab=readme-ov-file)
 
 ---
 
