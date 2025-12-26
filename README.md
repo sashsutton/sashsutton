@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me  [![Portfolio website](https://img.shields.io/badge/🚀_Live_Demo-Online-success?style=flat-square)](https://github.com/sashsutton/my-portfolio)
 I'm a Mathematics & Computer Science student focusing on **AI engineering**, especially:
 
 - Machine learning & deep learning  
