@@ -72,9 +72,10 @@ My background as a **music producer & former sound engineer at Fabric (London)**
 ### 🏃 **[Neural Vision 3D](https://github.com/sashsutton/neural-network-numbers?tab=readme-ov-file)**
 > **Python • Numpy • React**
 >
-> **
+> An interactive 3D visualization of a Neural Network built from scratch, capable of recognising hand-drawn digits using the MNIST dataset.
 >
 > [![View Code](https://img.shields.io/badge/View_Code-GitHub-black?style=flat-square&logo=github)](https://github.com/sashsutton/neural-network-numbers?tab=readme-ov-file)
+> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Online-success?style=flat-square)](https://neural-network-numbers.vercel.app/)
 
 ---
 
