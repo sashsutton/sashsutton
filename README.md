@@ -41,6 +41,7 @@ I'm a 3rd-year student at **Aix-Marseille University** pursuing a Bachelor's deg
 > - Deployed as a microservices architecture on Render and Vercel.
 
 ### 👁️ **[Neural Vision 3D](https://github.com/sashsutton/neural-network-numbers)**
+Live website: [Neural network](https://neural-network-numbers.vercel.app)
 > **React • Three.js • Python • NumPy**
 >
 > An interactive 3D visualisation of a deep neural network built from scratch using matrix mathematics.
