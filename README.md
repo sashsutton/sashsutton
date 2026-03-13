@@ -22,7 +22,7 @@ I'm a 3rd-year student at **Aix-Marseille University** pursuing a Bachelor's deg
 ## Featured Projects
 
 ### **[Koda Marketplace](https://github.com/koda-lab/koda-web-app)**
-** Live website:** [koda(https://www.kodas.works/en)]
+** Live website:** [koda](https://www.kodas.works/en)
 > **Next.js 15 • TypeScript • Stripe Connect • AWS S3 • Pusher • MongoDB**
 >
 > A premium marketplace for no-code automations launched with a team of developers.
