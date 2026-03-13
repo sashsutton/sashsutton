@@ -12,7 +12,7 @@ I'm a 3rd-year student at **Aix-Marseille University** pursuing a Bachelor's deg
 **Background:**
 - **Mathematics & Computer Science** @ Aix-Marseille University (Expected May 2026)
 - **Statistical Data Analyst Intern** @ Micron Applied Dentistry (Fall 2025) — Built Python pipelines for 3D dental scan analysis and automated landmark detection.
-- **Full-stack Developer Intern** @ Vista Ball (Summer 2025) — Engineered a centralized inventory system and Shopify integration.
+- **Full-stack Developer Intern** @ Vista Ball (Summer 2025) — Engineered a centralised inventory system and Shopify integration.
 - **1st Place Hackathon Winner** @ AMU 2026.
 
 **Visit my portfolio:** [sasha-sutton.dev](https://my-portfolio-three-omega-61.vercel.app/)
@@ -22,6 +22,7 @@ I'm a 3rd-year student at **Aix-Marseille University** pursuing a Bachelor's deg
 ## Featured Projects
 
 ### **[Koda Marketplace](https://github.com/koda-lab/koda-web-app)**
+** Live website:** [koda(https://www.kodas.works/en)]
 > **Next.js 15 • TypeScript • Stripe Connect • AWS S3 • Pusher • MongoDB**
 >
 > A premium marketplace for no-code automations launched with a team of developers.
