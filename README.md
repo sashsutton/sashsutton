@@ -7,13 +7,13 @@
 
 ## About Me
 
-[cite_start]I'm a 3rd-year student at **Aix-Marseille University** pursuing a Bachelor's degree in **Mathematics & Computer Science**. [cite_start]I specialise in building intelligent systems that bridge rigorous mathematical foundations with modern full-stack engineering.
+I'm a 3rd-year student at **Aix-Marseille University** pursuing a Bachelor's degree in **Mathematics & Computer Science**. I specialise in building intelligent systems that bridge rigorous mathematical foundations with modern full-stack engineering.
 
 **Background:**
-- [cite_start]**Mathematics & Computer Science** @ Aix-Marseille University (Expected May 2026) [cite: 5, 10]
-- [cite_start]**Statistical Data Analyst Intern** @ Micron Applied Dentistry (Fall 2025) — Built Python pipelines for 3D dental scan analysis and automated landmark detection.
-- [cite_start]**Full-stack Developer Intern** @ Vista Ball (Summer 2025) — Engineered a centralized inventory system and Shopify integration.
-- [cite_start]**1st Place Hackathon Winner** @ AMU 2026.
+- **Mathematics & Computer Science** @ Aix-Marseille University (Expected May 2026)
+- **Statistical Data Analyst Intern** @ Micron Applied Dentistry (Fall 2025) — Built Python pipelines for 3D dental scan analysis and automated landmark detection.
+- **Full-stack Developer Intern** @ Vista Ball (Summer 2025) — Engineered a centralized inventory system and Shopify integration.
+- **1st Place Hackathon Winner** @ AMU 2026.
 
 **Visit my portfolio:** [sasha-sutton.dev](https://my-portfolio-three-omega-61.vercel.app/)
 
@@ -34,19 +34,19 @@
 ### 🔍 **[Vector Search Engine (RAG)](https://github.com/sashsutton/vector-search-engine)**
 > **Python • FastAPI • NumPy • BERT**
 >
-> [cite_start]A semantic search engine built from scratch using **cosine similarity** via matrix multiplication to rank documents by meaning.
+> - A semantic search engine built from scratch using **cosine similarity** via matrix multiplication to rank documents by meaning.
 >
-> [cite_start]- Engineered backend using **FastAPI** and **Sentence-Transformers (BERT)** to generate 384-dimensional embeddings.
-> [cite_start]- Deployed as a microservices architecture on Render and Vercel.
+> - Engineered backend using **FastAPI** and **Sentence-Transformers (BERT)** to generate 384-dimensional embeddings.
+> - Deployed as a microservices architecture on Render and Vercel.
 
 ### 👁️ **[Neural Vision 3D](https://github.com/sashsutton/neural-network-numbers)**
 > **React • Three.js • Python • NumPy**
 >
-> [cite_start]An interactive 3D visualization of a deep neural network built from scratch using matrix mathematics.
+> An interactive 3D visualisation of a deep neural network built from scratch using matrix mathematics.
 >
 > - **Architecture**: Implemented a 5-layer network: **784** (Input) → **512** (ReLU) → **256** (ReLU) → **128** (ReLU) → **11** (Softmax for 10 digits + "NaN").
-> [cite_start]- **Inference Engine**: Built the core logic in Python using **NumPy** for manual forward pass activations without high-level ML libraries.
-> [cite_start]- **Visualization**: Developed with **React Three Fiber** for real-time neural activation inspection.
+> - **Inference Engine**: Built the core logic in Python using **NumPy** for manual forward pass activations without high-level ML libraries.
+> - **Visualization**: Developed with **React Three Fiber** for real-time neural activation inspection.
 
 ---
 
@@ -64,7 +64,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sashasutton4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sashsutton)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sashsuttons3@icloud.com)
+[Email](mailto:sashsuttons3@icloud.com)
 
 <p align="center">
   <i>Chess Club @ AMU - Marathon Runner</i> 
