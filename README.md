@@ -32,7 +32,7 @@ I'm a 3rd-year student at **Aix-Marseille University** pursuing a Bachelor's deg
 > - **Infrastructure**: Secured automation files using private **AWS S3** buckets with signed, temporary download links.
 > - **Global Reach**: Built-in i18n support for English, French, Spanish, and German.
 
-### 🔍 **[Vector Search Engine (RAG)](https://github.com/sashsutton/vector-search-engine)**
+### **[Vector Search Engine (RAG)](https://github.com/sashsutton/vector-search-engine)**
 > **Python • FastAPI • NumPy • BERT**
 >
 > - A semantic search engine built from scratch using **cosine similarity** via matrix multiplication to rank documents by meaning.
@@ -40,7 +40,7 @@ I'm a 3rd-year student at **Aix-Marseille University** pursuing a Bachelor's deg
 > - Engineered backend using **FastAPI** and **Sentence-Transformers (BERT)** to generate 384-dimensional embeddings.
 > - Deployed as a microservices architecture on Render and Vercel.
 
-### 👁️ **[Neural Vision 3D](https://github.com/sashsutton/neural-network-numbers)**
+### **[Neural Vision 3D](https://github.com/sashsutton/neural-network-numbers)**
 Live website: [Neural network](https://neural-network-numbers.vercel.app)
 > **React • Three.js • Python • NumPy**
 >
