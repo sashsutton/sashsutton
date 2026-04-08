@@ -10,7 +10,7 @@
 I'm a 3rd-year student at **Aix-Marseille University** pursuing a Bachelor's degree in **Mathematics & Computer Science**. I specialise in building intelligent systems that bridge rigorous mathematical foundations with modern full-stack engineering.
 
 **Background:**
-- **Mathematics & Computer Science** @ Aix-Marseille University (Expected May 2026)
+- **Bsc Mathematics & Computer Science** @ Aix-Marseille University (Expected May 2026)
 - **Statistical Data Analyst Intern** @ Micron Applied Dentistry (Fall 2025) — Built Python pipelines for 3D dental scan analysis and automated landmark detection.
 - **Full-stack Developer Intern** @ Vista Ball (Summer 2025) — Engineered a centralised inventory system and Shopify integration.
 - **1st Place Hackathon Winner** @ AMU 2026.
