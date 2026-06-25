@@ -12,6 +12,7 @@ I hold a BSc in Mathematics & Computer Science from Aix-Marseille University and
 The music and the engineering have never been separate for me. I produce electronic music, play guitar, and at some point built a computer vision instrument that turns hand movements into sound.
 
 **Background:**
+- **MSc Data Knowledge and Hybrid AI (DKAI)** @ Université Paris-Saclay *(current)*
 - **BSc Mathematics & Computer Science** @ Aix-Marseille University (2026)
 - **BA Music Production & Sound Engineering** @ Middlesex University
 - **NLP Research Intern** @ LIS — Laboratoire d'Informatique et Systèmes, Luminy (2026) — Theme extraction on web archives using LDA, BERTopic, and CamemBERT
