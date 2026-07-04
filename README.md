@@ -6,7 +6,7 @@ I've just finished a research internship at LIS (Laboratoire d'Informatique et S
 
 What I want to do long term is research in NLP and computer vision. The music hasn't gone anywhere either — I still produce electronic music and play guitar, and it keeps leaking into my projects.
 
-**Elsewhere:** [portfolio](https://my-portfolio-three-omega-61.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sashasutton4) · [email](mailto:sashsuttons3@icloud.com)
+**Elsewhere:** [portfolio](https://sashasutton.dev/en) · [LinkedIn](https://www.linkedin.com/in/sashasutton4) · [email](mailto:sashsuttons3@icloud.com)
 
 ## Projects
 
