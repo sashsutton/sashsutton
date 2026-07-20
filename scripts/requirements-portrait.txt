@@ -1,0 +1,9 @@
+# Only needed to regenerate the ASCII portrait from a photo (prep_photo.py +
+# make_ascii_svg.py). Kept out of requirements.txt so the daily workflow, which
+# only refreshes the contribution graph, doesn't pull rembg/onnxruntime.
+pillow
+numpy
+# 5.x dropped the top-level cv2.CascadeClassifier used for the face crop
+opencv-python-headless<5
+rembg
+onnxruntime
