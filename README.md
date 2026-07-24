@@ -40,11 +40,14 @@ What I want to do long term is research in NLP and computer vision. The music ha
 ### [Koda Marketplace](https://github.com/koda-lab/koda-web-app) — live at [kodas.works](https://www.kodas.works/en)
 A marketplace for no-code automations, built with a team (Next.js, TypeScript, MongoDB). My part was the financial layer: Stripe Connect with an 85/15 commission split, refund reversals, real-time messaging with Pusher, and file delivery through signed S3 URLs.
 
-### [ML Library](https://github.com/sashsutton/ML_library)
-A small neural network library written in C with no dependencies: matrix ops, ReLU/Sigmoid, dense layers, MSE. I wrote a paper on backpropagation (below) and wanted to check I could actually implement the thing I was describing.
+### [Neural Network Numbers](https://github.com/sashsutton/neural-network-numbers) — live at [neural-network-numbers.vercel.app](https://neural-network-numbers.vercel.app/)
+Draw a digit and watch the network think: an interactive 3D visualization (Three.js) of a from-scratch NumPy net recognizing hand-drawn numbers, with neuron activations lighting up in real time. ~600k parameters trained on MNIST plus synthetic non-digit samples, served with FastAPI, and it learns from your corrections via backpropagation.
 
 <details>
 <summary><b>More projects</b></summary>
+
+### [ML Library](https://github.com/sashsutton/ML_library)
+A small neural network library written in C with no dependencies: matrix ops, ReLU/Sigmoid, dense layers, MSE. I wrote a paper on backpropagation (below) and wanted to check I could actually implement the thing I was describing.
 
 ### [Vector Search Engine](https://github.com/sashsutton/vector-search-engine)
 Semantic search over documents using cosine similarity on sentence-transformer embeddings, served with FastAPI and split into small services on Render/Vercel.
