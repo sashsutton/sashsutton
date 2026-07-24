@@ -1,5 +1,10 @@
 """
-We're preparing a portrait photo for clean ASCII conversion
+We're preparing a portrait photo for clean ASCII conversion.
+
+The source photo is a local build input and is NOT committed (see .gitignore) --
+only the generated sasha-ascii.svg is. To regenerate: drop a portrait at
+../source-photo.jpg (or pass a path as argv[1]) and run this script, then
+make_ascii_svg.py.
 """
 
 
