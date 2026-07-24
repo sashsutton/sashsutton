@@ -1,1 +1,6 @@
 .DS_Store
+
+# Local build inputs for the ASCII portrait (not committed — the generated
+# sasha-ascii.svg is the artifact). Drop your own source-photo.jpg here.
+source-photo.jpg
+source-prepped.png
