@@ -1,22 +1,22 @@
 {
   "username": "sashsutton",
-  "generated_at": "2026-08-16T07:01:01Z",
+  "generated_at": "2026-08-17T07:18:08Z",
   "range": {
     "start": "2025-08-17",
+    "end": "2026-08-17"
+  },
+  "total_contributions": 760,
+  "active_days": 128,
+  "avg_per_active_day": 5.9,
+  "current_streak": {
+    "length": 29,
+    "start": "2026-07-19",
     "end": "2026-08-16"
   },
-  "total_contributions": 759,
-  "active_days": 127,
-  "avg_per_active_day": 6.0,
-  "current_streak": {
-    "length": 28,
-    "start": "2026-07-19",
-    "end": "2026-08-15"
-  },
   "longest_streak": {
-    "length": 28,
+    "length": 29,
     "start": "2026-07-19",
-    "end": "2026-08-15"
+    "end": "2026-08-16"
   },
   "best_day": {
     "date": "2025-12-26",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 19
+      "total": 20
     }
   ],
   "days": [
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-08-16",
+      "count": 1
+    },
+    {
+      "date": "2026-08-17",
       "count": 0
     }
   ]
